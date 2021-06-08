@@ -1,0 +1,17 @@
+meter {
+    -webkit-appearance: none;
+}
+
+2
+3
+4
+5
+6
+7
+meter {
+    width: 100px;
+    height: 200px;
+    display: block;
+    background-color: #303030;
+    position: relative;
+}
